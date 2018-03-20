@@ -1,0 +1,1 @@
+{"version":3,"sources":["parcel-experiments\\index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,QAAQC,GAAR,CAAY,OAAZ","file":"parcel-experiments.map","sourcesContent":["console.log(\"hello\")\r\n"]}
